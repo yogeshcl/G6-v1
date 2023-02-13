@@ -267,7 +267,7 @@ export default class TreeGraph extends Graph implements ITreeGraph {
     );
     const self = this;
     self.updateLayout(layout);
-  }
+  }npm login --scope=@NAMESPACE --auth-type=legacy --registry=https://npm.pkg.github.com
 
   /**
    * 更改并应用树布局算法
