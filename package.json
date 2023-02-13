@@ -1,5 +1,6 @@
 {
   "name": "g6-v1",
+  "version": "1.0.1",
   "workspaces": [
     "packages/*"
   ],
